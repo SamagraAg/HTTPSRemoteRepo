@@ -1,2 +1,1 @@
 This file is bb.txt.
-It was "NOT" created for fun purpose.
