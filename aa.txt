@@ -1,0 +1,2 @@
+This file is a.txt
+It was created for fun purpose.
